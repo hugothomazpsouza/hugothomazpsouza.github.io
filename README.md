@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Cloud and Network Engineer**, passionate about architecting, automating, and maintaining resilient and scalable cloud infrastructures. I maintain this repository as a personal knowledge base, hosting step-by-step tutorials, technical articles, and my hands-on projects in the field.
+I am a **Cloud Network Engineer**, passionate about architecting, automating, and maintaining resilient and scalable cloud infrastructures. I maintain this repository as a personal knowledge base, hosting step-by-step tutorials, technical articles, and my hands-on projects in the field.
 
 ---
 
