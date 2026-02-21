@@ -61,8 +61,8 @@ I am a **Cloud and Network Engineer**, passionate about architecting, automating
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugothomazpsouza&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugothomazpsouza&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hugothomazpsouza&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hugothomazpsouza&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
