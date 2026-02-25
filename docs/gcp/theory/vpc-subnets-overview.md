@@ -97,4 +97,4 @@ For Internal IPv6 subnets, Google Cloud reserves two `/96` ranges for system use
 - [🔗 Google Cloud Subnets Documentation](https://cloud.google.com/vpc/docs/subnets)
 - [🔗 Professional Cloud Network Engineer Exam Guide](https://cloud.google.com/certification/guides/cloud-network-engineer)
 
-[⬅️ Back to GCP Index](../../README.md)
+[⬅️ Back to GCP Index](../README.md)
