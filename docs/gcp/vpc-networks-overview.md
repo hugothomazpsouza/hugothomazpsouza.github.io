@@ -53,7 +53,7 @@ Google Cloud offers two main types of VPC networks:
 - **Egress Paths:** Routes define paths for packets _leaving_ instance (egress).
 - **Dynamic Routing Mode:** Controls the behavior of Cloud Routers in the VPC (determines how BGP routes are propagated - Regional or Global).
 - **Internet Access:** For a VM to reach the internet, it needs:
-  1. A valid default route to the internet gatewa (`0.0.0.0/0` or `::/0`).
+  1. A valid default route to the internet gateway (`0.0.0.0/0` or `::/0`).
   2. Firewall rules allowing egress.
   3. An external IP address, OR access to Cloud NAT / instance-based proxy.
 
