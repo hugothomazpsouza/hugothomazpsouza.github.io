@@ -7,6 +7,8 @@
 
 ### Theory & Certification Prep
 
+- [📚 VPC Subnets - Complete Study Guide](vpc-subnets-overview.md)
+  _In-depth breakdown of subnet modes, IPv4/IPv6 limitations, and ranges for the PCNE exam._
 - [📚 VPC Networks - Complete Study Guide](vpc-networks-overview.md)
   _Core concepts, subnet modes, and performance metrics for the Professional Cloud Network Engineer exam._
 
