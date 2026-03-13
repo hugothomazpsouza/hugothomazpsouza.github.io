@@ -69,6 +69,7 @@ I am a **Cloud Network Engineer**, passionate about architecting, automating, an
 
 ## 📰 Latest Articles
 
+- 🆕 [Transmission Time Calculation](blog/2026-03-12-transmission-time-calculation.md)
 - 📚 [GCP Theory: VPC Subnets - Complete Study Guide](docs/gcp/theory/vpc-subnets-overview.md)
 - 📚 [GCP Theory: VPC Networks - Complete Study Guide](docs/gcp/theory/vpc-networks-overview.md)
 - 🆕 [GCP Lab: Controlling Access to VPC Networks](docs/gcp/hands-on/controlling-access-vpc-networks.md)
