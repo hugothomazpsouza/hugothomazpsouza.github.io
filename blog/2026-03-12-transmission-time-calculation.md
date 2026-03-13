@@ -22,7 +22,7 @@ This is a transmission time calculation. It shows how long it takes to send a fi
 Here is the simplified step-by-step:
 
 **File Size**: The image is 25 Megabytes (MB). Since network speed is measured in bits, we first convert bytes to bits by multiplying by 8 (since 1 byte = 8 bits).
-_25 MB × 8 = 200 Megabits (Mb)_ (_200,000,000 bits_.
+_25 MB × 8 = 200 Megabits (Mb)_ (200 Megabits x 10⁶ = _200,000,000 bits_).
 
 **Network Speed (Bandwidth)**: The connection is 10 Mbps (Megabits per second).
 _10 Mbps = 10,000,000 bits per second_.
@@ -51,7 +51,7 @@ Here is the logic of the 'staircase':
 
 **File Size in Bits:**
 A 500 GB (Gigabyte) file needs to be converted to bits by multiplying by 8.
-_500 GB × 8 = 4,000 Gigabits (Gb)_ (or _4,000,000,000,000 bits_).
+_500 GB × 8 = 4,000 Gigabits (Gb)_ (4000 Gigabits x 10⁹ = _4,000,000,000,000 bits_).
 
 **Network Speed (Bandwidth):**
 The connection speed is 1 Gbps (1 Gigabit per second).
@@ -65,7 +65,7 @@ _4,000 Gb / 1 Gbps = 4,000 seconds_ (approx. 1 hour and 6 minutes).
 
 **File Size in Bits:**
 A 1 TB (Terabyte) file is 1,000 GB. Multiply by 8 to get the bits.
-_1,000 GB × 8 = 8,000 Gigabits (Gb)_ (or _8,000,000,000,000 bits_).
+_1,000 GB × 8 = 8,000 Gigabits (Gb)_ (8000 Gigabits x 10⁹ = _8,000,000,000,000 bits_).
 
 **Network Speed (Bandwidth):**
 The connection speed is 10 Gbps (10 Gigabits per second).
