@@ -22,7 +22,7 @@ This is a transmission time calculation. It shows how long it takes to send a fi
 Here is the simplified step-by-step:
 
 **File Size**: The image is 25 Megabytes (MB). Since network speed is measured in bits, we first convert bytes to bits by multiplying by 8 (since 1 byte = 8 bits).
-_25 MB × 8 = 200 Megabits (Mb)_ or _200,000,000 bits_.
+_25 MB × 8 = 200 Megabits (Mb)_ (_200,000,000 bits_.
 
 **Network Speed (Bandwidth)**: The connection is 10 Mbps (Megabits per second).
 _10 Mbps = 10,000,000 bits per second_.
@@ -34,7 +34,18 @@ In short: If you have a file made of 200 million 'pieces' and you can send 10 mi
 
 ---
 
-## 2. Other Examples
+## 2. The Prefix Staircase
+
+Here is the logic of the 'staircase':
+
+- **Kilo (K)** = 10³ (1,000) — Thousand.
+- **Mega (M)** = 10⁶ (1,000,000) — Million.
+- **Giga (G)** = 10⁹ (1,000,000,000) — Billion.
+- **Tera (T)** = 10¹² (1,000,000,000,000) — Trillion.
+
+---
+
+## 3. Other Examples
 
 ### Example 1: 500 GB File over a 1 Gbps Link
 
@@ -63,12 +74,6 @@ _10 Gbps = 10,000,000,000 bits per second_.
 **The Final Math:**
 Divide the total bits by the network speed:
 _8,000 Gb / 10 Gbps = 800 seconds_ (exactly 13 minutes and 20 seconds).
-
----
-
-## 3. Network Overhead
-
-Would you like to see how network overhead (the extra data used for protocols) usually adds about 10-20% to these times in the real world?
 
 ---
 
